@@ -16,10 +16,8 @@ This presentation explores:
 
 ---
 
-## 📂 Contents
-- `slides/` - PDF slides used during the presentation.
-- `research/` - Additional research materials on malware techniques.
-- `tools/` - References to open-source detection and investigation tools.
+## 📂 Files
+- **`DEFENSIVE_SOLUTIONS_FIRSTCON24.pdf`** – Slide deck used in the presentation.
 
 ---
 
